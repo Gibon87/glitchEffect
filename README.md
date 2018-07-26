@@ -3,11 +3,11 @@
 <p> Hey,<br>
 Just because, I have some free time ;) </p>
 
-Demo: https://gibon87.github.io/animatedNewsletter/
+Demo: https://gibon87.github.io/glitchEffect/
 
 <h2>How to use: </h2>
 <ol>
-  <li>It is sooo simple .</li>
+  <li>It Hmm ... just click on demo link :) .</li>
 </ol>
 
 <h2>Used:</h2>
